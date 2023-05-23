@@ -1,6 +1,3 @@
-# CS50-Finance
-**NOTE**: This project was completed as part of Harvard's CS50 on EdX. Requirements for this project can be found [here](https://cs50.harvard.edu/x/2020/tracks/web/finance/).   
-
 **Description:** Website where users can create an account, buy, and sell imaginary stocks.   
 
 For this project, I implemented the following functionality:
@@ -12,4 +9,4 @@ For this project, I implemented the following functionality:
 5. `sell`: Allows a user to sell stocks; Sold stocks are removed from the database and the money balance is updated
 6. `history`: Displays an HTML table showing the transaction history for the user
 
-All code outside of the above functions was provided by CS50.
+
